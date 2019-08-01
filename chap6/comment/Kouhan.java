@@ -1,4 +1,4 @@
-
+package comment;
 public class Kouhan{
 	public static void callDeae(){
 		Shstem.out.println("ええい、小癪な。くせ者だ！であえい！");
